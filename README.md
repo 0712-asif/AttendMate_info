@@ -19,3 +19,4 @@ This repository is structured for **GitHub Pages** deployment from the `/docs` f
    * **Branch**: `main`
    * **Folder**: `/docs`
 3. Save to publish the site at `https://0712-asif.github.io/AttendMate_info/`.
+
