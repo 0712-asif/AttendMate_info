@@ -94,5 +94,6 @@ You retain complete control over your data:
 ## Contact Developer
 
 If you have any questions or feedback regarding this Privacy Policy, please contact:
-- **Email:** [venkatpiyush327@gmail.com](mailto:venkatpiyush327@gmail.com)
+- **Developer:** Chukkaluru Asif
+- **Email:** [chukkaluruasif@gmail.com](mailto:chukkaluruasif@gmail.com)
 - **Portal:** [https://attendmate.app](index.html)

@@ -20,3 +20,10 @@ This repository is structured for **GitHub Pages** deployment from the `/docs` f
    * **Folder**: `/docs`
 3. Save to publish the site at `https://0712-asif.github.io/AttendMate_info/`.
 
+## Developer Contact
+
+* **Developer**: Chukkaluru Asif
+* **Email**: [chukkaluruasif@gmail.com](mailto:chukkaluruasif@gmail.com)
+* **App Project**: [AttendMate on GitHub](https://github.com/YTFL/AttendMate-Bunk-Calculator-Attendance-Tracker)
+
+

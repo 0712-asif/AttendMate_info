@@ -59,5 +59,6 @@ We reserve the right to modify these Terms at any time. Updated Terms will be pu
 ## Contact Developer
 
 If you have questions, feedback, or concerns regarding these Terms, please contact:
-- **Email:** [venkatpiyush327@gmail.com](mailto:venkatpiyush327@gmail.com)
+- **Developer:** Chukkaluru Asif
+- **Email:** [chukkaluruasif@gmail.com](mailto:chukkaluruasif@gmail.com)
 - **Portal:** [https://attendmate.app](index.html)
