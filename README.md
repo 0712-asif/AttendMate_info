@@ -7,23 +7,26 @@ Official web portal, privacy policy, terms of service, and Google OAuth verifica
 * **`docs/index.html`**: Main landing page with feature walkthroughs, responsive phone mockups, and Google integration disclosures.
 * **`docs/privacy.html` / `docs/privacy.md`**: Complete Privacy Policy explicitly stating Google Calendar and Google Drive integration strictly for personal timetable synchronization and secure backups.
 * **`docs/terms.html` / `docs/terms.md`**: Terms of Service governing local-first data usage and third-party integrations.
+* **`docs/delete-account.html` / `delete-account/`**: Google Play compliant Account & Data Deletion request portal (`attendmate.chukkaluruasif.info/delete-account`).
 * **`docs/google77ba7ea073053d7e.html`**: Google Search Console / OAuth site verification file.
 * **`docs/screenshots/`**: App walkthrough screenshots.
 
-## GitHub Pages Deployment
+## GitHub Pages & Custom Domain Deployment
 
-This repository is structured for **GitHub Pages** deployment from the `/docs` folder:
+This repository is structured for **GitHub Pages** deployment from the `/docs` folder or repository root:
 1. Go to repository **Settings** &rarr; **Pages**.
 2. Under **Build and deployment**, select:
    * **Source**: `Deploy from a branch`
    * **Branch**: `main`
-   * **Folder**: `/docs`
-3. Save to publish the site at `https://0712-asif.github.io/AttendMate_info/`.
+   * **Folder**: `/docs` (or `/ (root)`)
+3. Save to publish the site at `https://0712-asif.github.io/AttendMate_info/` or custom domain `https://attendmate.chukkaluruasif.info`.
+4. Account deletion URL for Google Play Console: `https://attendmate.chukkaluruasif.info/delete-account`.
 
 ## Developer Contact
 
-* **Developer**: Chukkaluru Asif
+* **Developer**: C. Asif (Chukkaluru Asif)
 * **Email**: [chukkaluruasif@gmail.com](mailto:chukkaluruasif@gmail.com)
+* **Account Deletion Request**: [https://attendmate.chukkaluruasif.info/delete-account](delete-account.html)
 * **App Project**: [AttendMate on GitHub](https://github.com/YTFL/AttendMate-Bunk-Calculator-Attendance-Tracker)
 
 

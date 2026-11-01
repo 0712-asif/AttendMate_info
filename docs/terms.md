@@ -58,7 +58,8 @@ We reserve the right to modify these Terms at any time. Updated Terms will be pu
 
 ## Contact Developer
 
-If you have questions, feedback, or concerns regarding these Terms, please contact:
-- **Developer:** Chukkaluru Asif
+If you have questions, feedback, or concerns regarding these Terms, or to request account deletion, please contact:
+- **Developer:** C. Asif (Chukkaluru Asif)
 - **Email:** [chukkaluruasif@gmail.com](mailto:chukkaluruasif@gmail.com)
+- **Account Deletion Portal:** [https://attendmate.chukkaluruasif.info/delete-account](delete-account.html)
 - **Portal:** [https://attendmate.app](index.html)

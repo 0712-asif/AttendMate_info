@@ -88,12 +88,13 @@ You retain complete control over your data:
 - **Location Permission Revocation:** You can revoke location access at any time through Android system settings.
 - **Local Data Erasure:** Uninstalling the App or selecting "Clear App Data" in app settings permanently deletes all local attendance, timetable, and location data from your device.
 - **Cloud Backup Deletion:** You can delete your cloud backup file at any time directly through Google Drive or by turning off cloud backup in the App.
+- **Account & Data Deletion Portal:** In compliance with Google Play User Data policies, users can request full deletion of their account and data without reinstalling the app at [Account Deletion Portal](delete-account.html).
 
 ---
 
 ## Contact Developer
 
 If you have any questions or feedback regarding this Privacy Policy, please contact:
-- **Developer:** Chukkaluru Asif
+- **Developer:** C. Asif (Chukkaluru Asif)
 - **Email:** [chukkaluruasif@gmail.com](mailto:chukkaluruasif@gmail.com)
 - **Portal:** [https://attendmate.app](index.html)
